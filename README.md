@@ -1,1 +1,1 @@
-![Image Fondo](assets/image.jpg)
+![Image Fondo](assets/Image.jpg)
