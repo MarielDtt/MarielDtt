@@ -1,4 +1,4 @@
-![Image Fondo](assets/Imagen.jpg)
+![Image Fondo](assets/Image.jpg)
 
 
 Hola, Soy Mariel Gracias por interesarte en mi Perfil, te cuento sobre mi soy desarrolladora Full Stack con experiencia en la creación de aplicaciones web utilizando Next.js, React y Tailwind CSS. Me apasiona resolver problemas a través del código y construir interfaces intuitivas y eficientes. Tengo conocimientos en integración con APIs, autenticación y gestión de estado. Además, cuento con experiencia en el desarrollo de e-commerce y sistemas de gestión.
@@ -7,5 +7,16 @@ Antes de dedicarme a la programación, trabajé como administrativa, donde me en
 
 🚀 Mi stack tecnológico incluye:
 
- Frontend: HTML, CSS, JavaScript, React, Tailwind, Vite, Next.js
- Backend: Node.js, Express, MongoDB, SQL, TypeScript
+ Frontend: 🟧 HTML5 | 🔷 CSS3 | 🟨 JavaScript | ⚛️ React | 💨 Tailwind CSS | ⚡ Vite | ⏭️ Next.js  
+
+
+ Backend: 🟩 Node.js | 🚏 Express | 🍃 MongoDB | 🗄️ SQL | 🔵 TypeScript  
+
+💬 Podes Contactarme:
+
+📧 marieldruetta@gmail.com
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+
