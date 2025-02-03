@@ -19,5 +19,6 @@ Antes de dedicarme a la programación, trabajé como administrativa, donde me en
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marieldruetta@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariel-druetta-dev/)
 
+📞 +54 9 11 666-03916
 
 
