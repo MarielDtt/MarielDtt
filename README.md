@@ -5,22 +5,27 @@ Hola, Soy Mariel Gracias por interesarte en mi Perfil, te cuento sobre mi soy de
 
 En conjunto con mis estudios de Programación, trabajo como empleada administrativa, donde me encargo de la elaboración de instructivos, organización de documentación y optimización de procesos. Desarrollando habilidades en gestión de tareas y análisis de datos, lo que me permitió mejorar la eficiencia en distintas áreas. Ahora, en el mundo del desarrollo web, busco combinar esa experiencia con soluciones tecnológicas innovadoras.
 
-🚀 Mi stack tecnológico incluye:
+---
 
- Frontend: HTML, CSS, JavaScript, React, Tailwind, Vite, Next.js
- Backend: Node.js, Express, MongoDB, SQL, TypeScript
+🚀 **Mi stack tecnológico incluye:**
 
+**Frontend:**  
+🟧 HTML5 | 🔷 CSS3 | 🟨 JavaScript | ⚛️ React | 💨 Tailwind CSS | ⚡ Vite | ⏭️ Next.js  
 
-🚀 Mi stack tecnológico incluye:sss
+**Backend:**  
+🟩 Node.js | 🚏 Express | 🍃 MongoDB | 🗄️ SQL | 🔵 TypeScript  
 
- Frontend: 🟧 HTML5 | 🔷 CSS3 | 🟨 JavaScript | ⚛️ React | 💨 Tailwind CSS | ⚡ Vite | ⏭️ Next.js  
+---
 
+🌐 **¡Mi portfolio ya está online!**  
 
- Backend: 🟩 Node.js | 🚏 Express | 🍃 MongoDB | 🗄️ SQL | 🔵 TypeScript  
+Quise crear algo más que una web: un espacio donde conviven mis colores, mis ideas, un poco de música y referencias que hablan de mí.
 
+👉 [Visitá mi portfolio](https://www.porfoliomed.com.ar)
 
+---
 
-💬 Podes Contactarme:
+💬 **Podés contactarme:**  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marieldruetta@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariel-druetta-dev/)
 
